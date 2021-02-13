@@ -12,7 +12,7 @@ Course Instructor Name:Shiqi Yu(于仕琪)
 Course Instructor Email: yusq@sustech.edu.cn  
 
 ### Project Topic  
-![Image text](https://github.com/YeeTone/CS205Project2/blob/main/Images/topic.png)  
+![Image text](https://github.com/YeeTone/CS205-2020Fall/blob/main/CS205Project2/Images/topic.png)  
 
 ## Catalogue
 There are 8 parts, 10 pages in the report in total.  
@@ -27,7 +27,7 @@ Part 7. Summary
   
 ### Part 0.How to use it and test on VS2017  
 First open the git-Bash and input like this to clone the repository.  
-![Image text](https://github.com/YeeTone/CS205Project2/blob/main/Images/gitclone.png)  
+![Image text](https://github.com/YeeTone/CS205-2020Fall/blob/main/CS205Project2/Images/gitclone.png)  
   
 If you don’t install VS2017 on your computer, please download and follow the instructions on LAB1 of CS205 2020 Fall.   
   
@@ -40,7 +40,7 @@ Then you can just change the name of file in the main.cpp and start test!
   
 ### Part 1.Description  
 There are 5 code files for this project in total:  
-![Image text](https://github.com/YeeTone/CS205Project2/blob/main/Images/files.png)  
+![Image text](https://github.com/YeeTone/CS205-2020Fall/blob/main/CS205Project2/Images/open.png)  
 1.main.cpp： The entry of the project, using very few lines of codes;//code lines:5  
 2.Material.h：Mainly for the definition of the struct for convolution core and full-connected layer, using very simple codes;//code lines:22  
 3.Material.cpp：Nothing, since no definition of methods in the convolution cores and full-connected layer;//code lines:3  
@@ -62,8 +62,8 @@ Compiler：mingw-gcc/g++
 Development IDE：Visual Studio 2017  
 There are 8 images for test cases(4 faces and 4 background), which are also uploaded with the Report.  
 You can find the images in the folder CS205CNN as well.  
-![Image text](https://github.com/YeeTone/CS205Project2/blob/main/Images/dialogue1.jpg)  
-![Image text](https://github.com/YeeTone/CS205Project2/blob/main/Images/dialogue2.jpg)  
+![Image text](https://github.com/YeeTone/CS205-2020Fall/blob/main/CS205Project2/Images/dialogue1.jpg)  
+![Image text](https://github.com/YeeTone/CS205-2020Fall/blob/main/CS205Project2/Images/dialogue2.jpg)  
 From these 8 test cases, the result is generally in line with our expectations, so we can verify the correctness of the implementation of this simple CNN.  
   
 ### Part 3. Implementation of the Optimization  
@@ -131,7 +131,7 @@ static void matrix_Production(float* out, float* mat1, int r, int col, int c, fl
 
 #### （2）Calculation time line chart of optimization process   
 The following line chart shows the operation time for the 128x128 picture:  
-![Image text](https://github.com/YeeTone/CS205Project2/blob/main/Images/picture.png)  
+![Image text](https://github.com/YeeTone/CS205-2020Fall/blob/main/CS205Project2/Images/picture.png)  
 Horizontal axis: optimization debugging times, unit: times  
 Vertical axis unit: running time, unit: ms  
 Efficiency improvement: 235%  
@@ -202,25 +202,25 @@ for (int i = 0; i < o_cha; i++){
 }
 ```
 If I try to add OMP statements in the inner or outer layer on the local computer, it will lead to longer running time. The reason is that the number of CPU cores on the local computer is limited. If I continue to add OMP statements, it will lead to too many CPU threads, as shown below:  
-![Image text](https://github.com/YeeTone/CS205Project2/blob/main/Images/thread.png)  
+![Image text](https://github.com/YeeTone/CS205-2020Fall/blob/main/CS205Project2/Images/thread.png)  
 The communication between threads also needs extra time, resulting in the slow operation speed.  
 
 #### （5）Part 4.Memory management
 In the implementation of CNN algorithm, one of the most annoying things is memory management and release. Although we have implemented a CMatrix class for automatic memory management in assignment 4, memory management is still a difficulty in this project. The following similar pages appear many times in the production of this project, and most of them appear at system("pause") or return 0:  
-![Image text](https://github.com/YeeTone/CS205Project2/blob/main/Images/error1.png)
-![Image text](https://github.com/YeeTone/CS205Project2/blob/main/Images/error2.png)
-![Image text](https://github.com/YeeTone/CS205Project2/blob/main/Images/error3.png)  
+![Image text](https://github.com/YeeTone/CS205-2020Fall/blob/main/CS205Project2/Images/error1.png)
+![Image text](https://github.com/YeeTone/CS205-2020Fall/blob/main/CS205Project2/Images/error2.png)
+![Image text](https://github.com/YeeTone/CS205-2020Fall/blob/main/CS205Project2/Images/error3.png)  
 For this reason, the following flow chart of data transfer and memory management in convolution operation is designed to facilitate understanding:     
-![Image text](https://github.com/YeeTone/CS205Project2/blob/main/Images/Data_Graph.png)  
+![Image text](https://github.com/YeeTone/CS205-2020Fall/blob/main/CS205Project2/Images/Data_Graph.png)  
 Flow chart of memory management and data flow  
 In short, it is to recycle the incoming data immediately after it is used up, so as to avoid the problem of subsequent memory management and realize efficient data management.   
 
 ### Part 5.Test on Different Platform  
 【Linux System】The running results of two standard test cases on ARM development board are as follows  
 Test File: 0.jpg（face.jpg）  
-![Image text](https://github.com/YeeTone/CS205Project2/blob/main/Images/arm1.png)  
+![Image text](https://github.com/YeeTone/CS205-2020Fall/blob/main/CS205Project2/Images/arm1.png)  
 Test File: 1.jpg（bg.jpg）  
-![Image text](https://github.com/YeeTone/CS205Project2/blob/main/Images/arm2.png)  
+![Image text](https://github.com/YeeTone/CS205-2020Fall/blob/main/CS205Project2/Images/arm2.png)  
 From the above standard test images provided by SimpleCNNbyCPP, we conclude that  
 1.The running results of the two test files are the same as that of WIN10 platform, which verifies the correctness of the cross platform operation of the program;  
 2.After many times of time measurement, it is found that the running time of the test file in ARM development board is longer than that in Win10 System. This part comes from the fact that the memory of ARM development board is not as large as that of windows 10 system, which leads to the limitation of computing performance.   
