@@ -1,4 +1,5 @@
-# CS205Project2
+# CS205Project2  
+Project Presentation Video: https://www.bilibili.com/video/BV1aX4y1M7ga  
 This is a trial of implementation of Simple CNN.  
 This is mainly for CS205:C/C++ Program Design Project2.  
 If you think this is a nice Project, please do not hesitate to give me a ★!  
