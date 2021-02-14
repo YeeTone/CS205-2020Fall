@@ -5,8 +5,9 @@ This repository is provided by YeeTone Wang, mainly for CS205 2020 by Professor 
 ### Author Information
 Name: YeeTone Wang  
 SID: 11910104  
+Semester: 2020Fall  
 Email: 11910104@mail.sustech.edu.cn  
-Final Grade for this course: A-  
+Final Grade for this course: 91/100 -> A-  
 
 ### Couse Information
 Instructor: Shiqi Yu  
