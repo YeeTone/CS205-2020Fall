@@ -22,7 +22,7 @@ Assignment2: 95/100
 Assignment3: 92/100  
 Assignment4: 93/100  
 Project1: 88/100  
-Project2: 88/100
+Project2: 88/100  
 Final Grade for this course: 91/100 -> A-  
 
 
