@@ -6,6 +6,7 @@ This repository is provided by YeeTone Wang, mainly for CS205 2020 by Professor 
 Name: YeeTone Wang  
 SID: 11910104  
 Semester: 2020Fall  
+School: Southern University of Science and Technology  
 Email: 11910104@mail.sustech.edu.cn  
 Final Grade for this course: 91/100 -> A-  
 
