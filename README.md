@@ -13,8 +13,8 @@ Email: 11910104@mail.sustech.edu.cn
 Lecture Attendance: 5%  
 Lab Attendance: 5%  
 Assignment: 30%(4 Assignments in total, but 3 are counted into the grade)  
-Project1: 20%  
-Project2: 40%  
+Project1(Individual): 20%  
+Project2(Individual): 40%  
 
 ### Some Scores of the author in this Course  
 Assignment1: 86/100  
