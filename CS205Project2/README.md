@@ -1,5 +1,8 @@
 # CS205Project2  
-Project Presentation Video: https://www.bilibili.com/video/BV1aX4y1M7ga  
+### Project Presentation Video  
+Link: https://www.bilibili.com/video/BV1aX4y1M7ga  
+![Image text](https://github.com/YeeTone/CS205-2020Fall/blob/main/CS205Project2/Images/like.jpg)  
+  
 This is a trial of implementation of Simple CNN.  
 This is mainly for CS205:C/C++ Program Design Project2.  
 If you think this is a nice Project, please do not hesitate to give me a ★!  
