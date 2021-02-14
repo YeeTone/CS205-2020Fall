@@ -9,7 +9,7 @@ Semester: 2020Fall
 School: Southern University of Science and Technology  
 Email: 11910104@mail.sustech.edu.cn  
 
-### Grade Policy in this Course
+### Grade Policy of this Course
 Lecture Attendance: 5%  
 Lab Attendance: 5%  
 Assignment: 30%(4 Assignments in total, but 3 are counted into the grade)  
