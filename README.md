@@ -47,5 +47,5 @@ Project2:
 ### Couse Information
 Instructor: Shiqi Yu  
 Email: yusq@sustech.edu.cn  
-Personal Website: https://faculty.sustech.edu.cn/?cat=77&tagid=yusq&orderby=date&iscss=1&snapid=1  
+Personal Website: https://faculty.sustech.edu.cn/yusq/  
 Online course: https://www.bilibili.com/video/BV1U54y1C7vr?from=search&seid=17998358662680288929
