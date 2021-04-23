@@ -40,7 +40,7 @@ Project1:
 Project2:  
 (Presentation Video on bilibili platform: https://www.bilibili.com/video/BV1aX4y1M7ga)  
 **[Score]** 88/100  
-**[Comment]**本project的实现中数据类型为float指针数组，事实上应当定义一个矩阵类用于存储float元素。  
+**[Comment]** 本project的实现中数据类型为float指针数组，事实上应当定义一个矩阵类用于存储float元素。  
   
 #### Final Grade for this course: 91/100 -> A-  
 
