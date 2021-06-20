@@ -8,6 +8,7 @@ SID: 11910104
 Semester: 2020Fall  
 School: Southern University of Science and Technology  
 Email: 11910104@mail.sustech.edu.cn  
+![IMG_20210525_174552](https://user-images.githubusercontent.com/64548919/122674746-17287c80-d209-11eb-94fb-ca0a7e59c326.jpg)
 
 ### Grade Policy of this Course
 Lecture Attendance: 5%  
@@ -49,4 +50,4 @@ Project2:
 Instructor: Shiqi Yu  
 Email: yusq@sustech.edu.cn  
 Personal Website: https://faculty.sustech.edu.cn/yusq/  
-Online course: https://www.bilibili.com/video/BV1U54y1C7vr?from=search&seid=17998358662680288929
+Online course: https://www.bilibili.com/video/BV1U54y1C7vr?from=search&seid=17998358662680288929   
