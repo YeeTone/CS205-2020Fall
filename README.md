@@ -1,6 +1,9 @@
 # CS205-2020Fall@C/C++
 Course: CS205-C/C++ Program Design  
-This repository is provided by YeeTone Wang, mainly for the course CS205 in 2020Fall by Prof.Shiqi Yu.
+This repository is provided by YeeTone Wang, mainly for the course CS205 in 2020Fall by Prof.Shiqi Yu.       
+
+## Comments on this course from the Author
+Prof.Shiqi Yu is Excellent in C/C++, and it is highly suggested having his C/C++ Lessons!
 
 ## Some Famous Words from Prof.Shiqi Yu
 1. **我真的后悔没搞期末考试，还有quiz做了就算满分的规定；**      
@@ -12,13 +15,15 @@ This repository is provided by YeeTone Wang, mainly for the course CS205 in 2020
 7. 我给分的标准一向是模糊化处理，我说多少分就多少分；        
 8. 最难翻越的山，是自己内心的恐惧；     
 
-## (Extremely Important)Some Advice to get an EXCELLENT score in the C/C++ Assignments and Projects of Prof.Shiqu Yu?
+## (Extremely Important) Some Advice to get an EXCELLENT score in the C/C++ Assignments and Projects of Prof.Shiqu Yu?
 The importance is ranked from high to low:       
 1. Guess and Meet the requirement of Prof.Shiqi Yu;        
 2. Writing a high-quality Report so that Prof.Shiqi Yu can be happy to give you a high score;       
 3. Presentation Skills (mainly for Project2) so that Prof.Shiqi Yu can give you a better score;        
+4. The Code Style: if your code style is AWFUL, then you cannot get a high score of course;        
+5. The Functionality of the Source Code;     
 
-### Author Information
+## Author Information
 Name: YeeTone Wang  
 SID: 11910104  
 Semester: 2020Fall  
@@ -26,49 +31,49 @@ School: Southern University of Science and Technology
 Email: 11910104@mail.sustech.edu.cn  
 ![IMG_20210525_174552](https://user-images.githubusercontent.com/64548919/122674746-17287c80-d209-11eb-94fb-ca0a7e59c326.jpg)
 
-### Grade Policy of this Course
+## Grade Policy of this Course
 Lecture Attendance: 5%  
 Lab Attendance: 5%  
 Assignment: 30%(4 Assignments in total, but 3 are counted into the grade)  
 Project1(Individual): 20%  
 Project2(Individual): 40%  
 
-### Some Scores and Comments of the Author's Assignments and Projects in this Course  
-#### Assignment1: BigInteger Multiplication           
+## Some Scores and Comments of the Author's Assignments and Projects in this Course  
+### Assignment1: BigInteger Multiplication           
 **[Score]** 86/100   
 **[Comment]** nice try!可以尝试在输入错误时不直接退出，而是继续输入直到输入正确  
   
-#### Assignment2: Multifunctional Calculator       
+### Assignment2: Multifunctional Calculator       
 **[Score]** 95/100  
 **[Comment]** excellent  
   
-#### Assignment3: Vector Dot Product and its Optimization    
+### Assignment3: Vector Dot Product and its Optimization    
 **[Score]** 92/100  
 **[Comment]** 函数参数float v1[]是指针，改为引用并不会提升效率。这点差别可完全忽略。io耗时跟计算无关。很好，继续努力。--Shiqi  
   
-#### Assignment4: Memory Management and Smart Pointer in the Design of Class Matrix       
+### Assignment4: Memory Management and Smart Pointer in the Design of Class Matrix       
 **[Score]** 93/100  
 **[Comment]** 实现的很好，如果考虑到计算效率会更好。--于仕琪  
   
-#### Project1: Matrix Multiplication and its Optimization            
+### Project1: Matrix Multiplication and its Optimization            
 **[Score]** 88/100  
 **[Comment]** 报告也不是越长越好，本次作业的重点是高效率的实现矩阵乘法。  
   
-#### Project2: CNN implemented by C/C++     
+### Project2: CNN implemented by C/C++     
 (Presentation Video on bilibili platform: https://www.bilibili.com/video/BV1aX4y1M7ga)  
 **[Score]** 88/100  
 **[Comment]** 本project的实现中数据类型为float指针数组，事实上应当定义一个矩阵类用于存储float元素。  
   
-#### Final Grade for this course: 91/100 -> A-  
+### Final Grade for this course: 91/100 -> A-  
 
 
-### Couse Information
+## Couse Information
 Instructor: Shiqi Yu  
 Email: yusq@sustech.edu.cn  
 Personal Website: https://faculty.sustech.edu.cn/yusq/  
 Online course: https://www.bilibili.com/video/BV1U54y1C7vr?from=search&seid=17998358662680288929   
 
-### Comments to all students from Prof.Shiqi Yu about the Project2
+## Comments to all students from Prof.Shiqi Yu about the Project2
 After reading all the source code of Project 2, I cannot help to say something.    
     
 The features I expected from your source code and report for Project 2.    
