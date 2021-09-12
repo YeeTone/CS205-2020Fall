@@ -1,7 +1,21 @@
 # CS205-2020Fall@C/C++
 Course: CS205-C/C++ Program Design  
 This repository is provided by YeeTone Wang, mainly for the course CS205 in 2020Fall by Prof.Shiqi Yu.
-## 最难翻越的山，是自己内心的恐惧！   --Prof.Shiqi Yu
+
+## Some Famous Words from Prof.Shiqi Yu
+1. **我真的后悔没搞期末考试，还有quiz做了就算满分的规定；**      
+2. 作业给分不能给太高了，否则人人都拿A了；        
+3. 上我的课的同学，永远不要让我听到说你作业做完了；       
+4. C/C++语言的精髓是指针和内存管理；       
+5. 布置作业一时爽，批改作业火葬场；           
+6. 我给分的标准一向是模糊化处理，我说多少分就多少分；        
+7. 最难翻越的山，是自己内心的恐惧；     
+
+## (Extremely Important)Some Advice to get an EXCELLENT score in the C/C++ Assignments and Projects of Prof.Shiqu Yu?
+The importance is ranked from high to low:       
+1. Guess and Meet the requirement of Prof.Shiqi Yu;        
+2. Writing a high-quality Report so that Prof.Shiqi Yu can be happy to give you a high score;       
+3. Presentation Skills (mainly for Project2) so that Prof.Shiqi Yu can give you a better score;        
 
 ### Author Information
 Name: YeeTone Wang  
