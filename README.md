@@ -4,12 +4,13 @@ This repository is provided by YeeTone Wang, mainly for the course CS205 in 2020
 
 ## Some Famous Words from Prof.Shiqi Yu
 1. **我真的后悔没搞期末考试，还有quiz做了就算满分的规定；**      
-2. 作业给分不能给太高了，否则人人都拿A了；        
-3. 上我的课的同学，永远不要让我听到说你作业做完了；       
-4. C/C++语言的精髓是指针和内存管理；       
-5. 布置作业一时爽，批改作业火葬场；           
-6. 我给分的标准一向是模糊化处理，我说多少分就多少分；        
-7. 最难翻越的山，是自己内心的恐惧；     
+2. 同学们总是说我作业多，我教C/C++的第一个学期的第二周就有一半的同学退了课；        
+3. 作业给分不能给太高了，否则人人都拿A了；        
+4. 上我的课的同学，永远不要让我听到说你作业做完了；       
+5. 我要重点强化同学们的编码能力，让每个人都有造轮子的能力；       
+6. 布置作业一时爽，批改作业火葬场；           
+7. 我给分的标准一向是模糊化处理，我说多少分就多少分；        
+8. 最难翻越的山，是自己内心的恐惧；     
 
 ## (Extremely Important)Some Advice to get an EXCELLENT score in the C/C++ Assignments and Projects of Prof.Shiqu Yu?
 The importance is ranked from high to low:       
