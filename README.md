@@ -3,7 +3,7 @@ Course: CS205-C/C++ Program Design
 This repository is provided by YeeTone Wang, mainly for the course CS205 in 2020Fall by Prof.Shiqi Yu.       
 
 ## Comments on this course from the Author
-Prof.Shiqi Yu is Excellent in C/C++, and it is highly suggested having his C/C++ Lessons!
+Prof.Shiqi Yu is Excellent in C/C++, and it is highly recommended to take his C/C++ course!
 
 ## Some Famous Words from Prof.Shiqi Yu
 1. **我真的后悔没搞期末考试，还有quiz做了就算满分的规定；**      
