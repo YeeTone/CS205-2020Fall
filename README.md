@@ -15,7 +15,7 @@ Prof.Shiqi Yu is Excellent in C/C++, and it is highly recommended to take his C/
 7. 我给分的标准一向是模糊化处理，我说多少分就多少分；        
 8. 最难翻越的山，是自己内心的恐惧；     
 
-## (Extremely Important) Some Advice to get an EXCELLENT score in the C/C++ Assignments and Projects of Prof.Shiqu Yu?
+## (Extremely Important) Some Advice to get an EXCELLENT score in the C/C++ Assignments and Projects of Prof.Shiqu Yu
 The importance is ranked from high to low:       
 1. Guess and Meet the requirement of Prof.Shiqi Yu;        
 2. Writing a high-quality Report so that Prof.Shiqi Yu can be happy to give you a high score;       
