@@ -51,7 +51,7 @@ Project2(Individual): 40%
 **[Score]** 92/100  
 **[Comment]** 函数参数float v1[]是指针，改为引用并不会提升效率。这点差别可完全忽略。io耗时跟计算无关。很好，继续努力。--Shiqi  
   
-### Assignment4: Memory Management and Smart Pointer in the Design of Class Matrix       
+### Assignment4: Memory Management and Smart Pointer       
 **[Score]** 93/100  
 **[Comment]** 实现的很好，如果考虑到计算效率会更好。--于仕琪  
   
