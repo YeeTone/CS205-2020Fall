@@ -1,6 +1,7 @@
 # CS205-2020Fall@C/C++
 Course: CS205-C/C++ Program Design  
 This repository is provided by YeeTone Wang, mainly for the course CS205 in 2020Fall by Prof.Shiqi Yu.       
+The repo of Prof.Shiqi Yu about this course: https://github.com/ShiqiYu/CPP      
 
 ## Comments on this course from the Author
 Prof.Shiqi Yu is Excellent in C/C++, and it is highly recommended to take his C/C++ course!  
