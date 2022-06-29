@@ -16,17 +16,32 @@ The importance is ranked from high to low:
 
 ## Author Information
 Name: YeeTone Wang  
+
 SID: 11910104  
+
 Semester: 2020Fall  
+
 School: Southern University of Science and Technology  
+
 Email: 11910104@mail.sustech.edu.cn  
+
+Photos with Prof.Shiqi Yu:
+
+(left: C/C++ course instructor Prof.Shiqi Yu, right: repo author YeeTone Wang)
+
+（左：C/C++课程主讲老师于仕琪教授，右：仓库作者王奕童）
+
 ![IMG_20210525_174552](https://user-images.githubusercontent.com/64548919/122674746-17287c80-d209-11eb-94fb-ca0a7e59c326.jpg)
 
 ## Grade Policy of this Course
 Lecture Attendance: 5%  
+
 Lab Attendance: 5%  
+
 Assignment: 30%(4 Assignments in total, but 3 are counted into the grade)  
+
 Project1(Individual): 20%  
+
 Project2(Individual): 40%  
 
 ## Some Scores and Comments of the Author's Assignments and Projects in this Course  
