@@ -4,23 +4,23 @@ CS205: C/C++ Program Design Assignment2
 ### Requirements:
 1.When you run your program and input an express in a line as follows, it can output the correct results. The operator precedence (order of operations) should be correct.
 
-![Image text](https://raw.githubusercontent.com/Yitong104/CS205Assignment2/main/1.png)
+![image](https://user-images.githubusercontent.com/64548919/194737390-4c4fd59a-f01b-4687-9c0c-179ed255e7ec.png)
 
 2.Use parentheses to enforce the priorities
 
-![Image text](https://raw.githubusercontent.com/Yitong104/CS205Assignment2/main/2.png)
+![image](https://user-images.githubusercontent.com/64548919/194737400-054342ff-2bff-4952-9b14-929fc25caf28.png)
 
 3.Variables can be defined as follows
 
-![Image text](https://raw.githubusercontent.com/Yitong104/CS205Assignment2/main/3.png)
+![image](https://user-images.githubusercontent.com/64548919/194737408-4b9c4005-0f5d-40de-86f8-f3f5860e1453.png)
 
 4.Some math functions can be supported
 
-![Image text](https://raw.githubusercontent.com/Yitong104/CS205Assignment2/main/4.png)
+![image](https://user-images.githubusercontent.com/64548919/194737409-a06e0e04-1b2b-4f6e-abf2-a1f13b0773e7.png)
 
 5.It can support arbitrary precision.
 
-![Image text](https://raw.githubusercontent.com/Yitong104/CS205Assignment2/main/5.png)
+![image](https://user-images.githubusercontent.com/64548919/194737419-3b14e3cb-6d55-4a1b-bf1d-1f7b90381902.png)
 
 6.More features which can be found from the calculator BC in Unix-like systems. You can visit this page for more information. https://www.gnu.org/software/bc/manual/html_mono/bc.html
 
